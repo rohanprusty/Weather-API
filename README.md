@@ -1,12 +1,20 @@
-# React + Vite
+🌤️ Weather App
+A sleek and responsive React-based Weather App that fetches real-time weather data using the OpenWeatherMap API. Enter any city to get instant weather updates like temperature, humidity, wind speed, and sky condition.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+🔍 Search weather by city name
 
-Currently, two official plugins are available:
+🌡️ Shows temperature, weather conditions, humidity, and wind speed
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Dynamic weather icons based on condition
 
-## Expanding the ESLint configuration
+⚡ Built with React + Vite for fast performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive UI for mobile and desktop
+
+🖼️ Demo : https://weather-api-drab-delta.vercel.app/
+
+🛠️ Tech Stack
+Frontend: React.js, Vite, CSS , Material-UI .
+
+API: OpenWeatherMap
