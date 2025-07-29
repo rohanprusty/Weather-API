@@ -65,14 +65,3 @@ weather-app/
 * Learned environment variable setup with `.env` in Vite
 
 ---
-
-## 📬 Contact
-
-**Rohan Prusty**
-📧 \[[your-email@example.com](mailto:your-email@example.com)]
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-💻 [Portfolio](https://yourportfolio.com)
-
----
-
-Let me know if you want a **GIF preview**, a **badge section** (like React ⚛️ | Tailwind 🌬️), or the code setup section added.
